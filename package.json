@@ -1,0 +1,12 @@
+{
+  "name": "dsb-to-array",
+  "version": "1.0.0",
+  "description": "just your run-of-the-mill toArray method",
+  "main": "index.js",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "devDependencies": {
+    "dsb-debug-mini": "^1.0.0"
+  },
+  "license": "NONE",
+  "private": true
+}

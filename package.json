@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "just your run-of-the-mill toArray method",
   "main": "index.js",
-  "author": "Casey Dwayne <opensource@caseydwayne.com> (http://caseydwayne.com)",
+  "author": "Casey Dwayne <opensource@caseydwayne.com> (https://caseydwayne.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseydwayne/dsb-to-array.git"
+  },
   "devDependencies": {
     "dsb-debug-mini": "^1.0.0"
   },
   "license": "NONE",
-  "private": true
+  "private": false
 }
